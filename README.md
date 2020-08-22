@@ -1,2 +1,3 @@
 # meridius_mobile-test
-Просто для тестирования мобильной версии главной страницы
+Для тестирования мобильной версии главной страницы
+https://yurokbo.github.io/meridius_mobile-test/
